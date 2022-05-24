@@ -1,4 +1,11 @@
 plugins:
-  plugin_name_enabled:
+  shuiyuan_bot_enabled:
     default: true
-    client: true
+  shuiyuan_bot_username:
+    default: ""
+    type: username
+  shuiyuan_bot_checkemail_notify:
+    default: true
+  shuiyuan_bot_checkemail_cc:
+    default: ""
+    type: list

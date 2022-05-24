@@ -1,0 +1,17 @@
+zh_CN:
+  site_settings:
+    shuiyuan_bot_enabled: "启用水源机器人"
+    shuiyuan_bot_username: "水源机器人用户名"
+    shuiyuan_bot_checkemail_notify: "当用户被查看邮箱时通知用户"
+    shuiyuan_bot_checkemail_cc: "抄送站务用户名列表（以|分割）"
+  shuiyuan_bot:
+    notify_pm_title: "您的邮箱地址已被查看"
+    notify_pm_content: |
+      您好，
+
+      这是一封由 %{site_name} 自动发送的私信，旨在通知您的邮箱地址已被查看。
+
+      这种情况通常为 %{site_name} 的上级指导部门或者学校其他部门根据工作需要，希望获取您的联系方式。之后可能会有相关工作人员联系您，并了解可能涉及到的事情经过。
+
+      我们的学生管理团队不会主动查看您的邮箱地址，也无法获悉您和相关工作人员的沟通情况。如果有任何情况或者进展，请及时告知我们的管理团队。
+      

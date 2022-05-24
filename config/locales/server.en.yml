@@ -1,1 +1,17 @@
 en:
+  site_settings:
+    shuiyuan_bot_enabled: "Enable Shuiyuan Bot"
+    shuiyuan_bot_username: "Shuiyuan Bot Username"
+    shuiyuan_bot_checkemail_notify: "Notify user when email is checked"
+    shuiyuan_bot_checkemail_cc: "CC to staff when user email is checked. (split by |)"
+  shuiyuan_bot:
+    notify_pm_title: "Your email address has been checked"
+    notify_pm_content: |
+      Hello,
+
+      This is an automated message from %{site_name} to let you know that your email address was checked.
+
+      This is usually the case where the superior guidance department of %{site_name} or other departments in the school want to obtain your contact information according to their work needs. Afterwards, relevant staff may contact you and learn about what may have happened.
+
+      Our student management team does not check your email address or keep track of your communications with relevant staff. If there is any situation or progress, please inform our management team in time.
+      
